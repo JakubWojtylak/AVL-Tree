@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1522618889 source:d:\do codeblocksa\drzewoavl\drzewo.cpp
+	<iostream>
+	<cstdio>
+	"drzewo.h"
+
+1522672505 d:\do codeblocksa\drzewoavl\drzewo.h
+	<iostream>
+	<cstdlib>
+
+1522681002 d:\do codeblocksa\drzewoavl\drzewo.cpp
+	<iostream>
+	<cstdio>
+	"drzewo.h"
+
+1522670878 source:d:\do codeblocksa\drzewoavl\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<algorithm>
+	"drzewo.cpp"
+
